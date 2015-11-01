@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+
+body {
+    font-family: 'Open Sans', sans;
+}
+
+.code_cell *{
+    font-family: 'Source Code Pro', monospace;
+}
+
+.text_cell .input_prompt{
+    display: none;
+}
